@@ -1,3 +1,64 @@
 [2024-12-17 08:02:07,728: INFO: main: Welcome to our custom logging data science]
 [2024-12-19 07:34:20,715: INFO: main: Welcome to our custom logging data science]
 [2024-12-23 05:18:31,159: INFO: main: Welcome to our custom logging data science]
+[2024-12-26 12:54:28,885: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-26 12:54:28,888: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-26 12:57:42,544: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-26 12:57:42,545: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-26 12:58:02,270: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-26 12:58:02,271: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-26 12:58:02,272: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-26 12:58:02,273: INFO: common: created directory at :artifacts]
+[2024-12-26 12:58:02,275: INFO: common: created directory at :artifacts/data_ingestion]
+[2024-12-26 13:06:22,011: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-26 13:06:22,025: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-26 13:06:22,031: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-26 13:06:22,032: INFO: common: created directory at :artifacts]
+[2024-12-26 13:06:22,034: INFO: common: created directory at :artifacts/data_ingestion]
+[2024-12-26 13:08:53,819: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-26 13:08:53,820: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-26 13:08:53,821: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-26 13:08:53,822: INFO: common: created directory at :artifacts]
+[2024-12-26 13:08:53,823: INFO: common: created directory at :artifacts/data_ingestion]
+[2024-12-26 13:14:15,417: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-26 13:14:15,421: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-26 13:14:15,422: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-26 13:14:15,423: INFO: common: created directory at :artifacts]
+[2024-12-26 13:14:15,424: INFO: common: created directory at :artifacts/data_ingestion]
+[2024-12-26 13:17:47,904: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-26 13:17:47,905: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-26 13:17:47,906: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-26 13:17:47,907: INFO: common: created directory at :artifacts]
+[2024-12-26 13:17:47,908: INFO: common: created directory at :artifacts/data_ingestion]
+[2024-12-26 13:20:46,531: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-26 13:20:46,535: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-26 13:20:46,536: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-26 13:20:46,536: INFO: common: created directory at :artifacts]
+[2024-12-26 13:20:46,537: INFO: common: created directory at :artifacts/data_ingestion]
+[2024-12-26 13:20:47,432: INFO: 1747067106: artifacts/data_ingestion/data.zip download! with the following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8398:4D7AC:145FC43:15448A4:676D582E
+Accept-Ranges: bytes
+Date: Thu, 26 Dec 2024 13:20:47 GMT
+Via: 1.1 varnish
+X-Served-By: cache-sin-wsss1830064-SIN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1735219247.014723,VS0,VE428
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3d7c25fdd093a9629b0a63b6950e217f6a5789fe
+Expires: Thu, 26 Dec 2024 13:25:47 GMT
+Source-Age: 0
+
+]
