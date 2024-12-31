@@ -4,9 +4,9 @@
 
 1. Data Ingestion
 2. Data Validation
-3. Data Transformation
+3. Data Transformation - Feature Engineering, Data preprocessing
 4. Model Trainer
-5. Model Evaluation
+5. Model Evaluation -- Ml flow, Dagshub
 
 ## Workflows
 
